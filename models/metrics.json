@@ -1,0 +1,21 @@
+{
+  "test_seasons": [
+    "2024A",
+    "2024B",
+    "2025A",
+    "2025B"
+  ],
+  "model_MAE": 0.2834,
+  "model_R2": 0.7683,
+  "naive_MAE": 0.6691,
+  "naive_R2": -0.3265,
+  "feature_importance": {
+    "rainfall_anom": 0.3222,
+    "lag1_yield": 0.2368,
+    "ndvi_mean": 0.1951,
+    "lag2_yield": 0.1412,
+    "district_code": 0.0197,
+    "temp_mean": 0.0114,
+    "is_season_A": 0.0001
+  }
+}
