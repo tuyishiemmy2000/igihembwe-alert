@@ -1,3 +1,4 @@
+
 # 🌾 Igihembwe Alert
 
 District-level crop-yield early warning for Rwanda - NISR 2026 Big Data Hackathon,
@@ -33,3 +34,7 @@ models/  notebooks/  docs/
 ## Notes
 - The bundled data is synthetic - do not present its results as real findings.
 - Competition rules: submissions transfer IP to NISR; disclose AI-tool use.
+=======
+# igihembwe-alert
+igihembwe
+>>>>>>> 508a3fdfaf1857950418b1265a11fe8cc56ebe3d
